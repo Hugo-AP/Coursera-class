@@ -44,7 +44,6 @@ body {
 }
 
 #nav-list a {
-  text-align: center;
   text-transform: uppercase;
   color: var(--main-color-text);
 }
