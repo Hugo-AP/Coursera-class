@@ -34,7 +34,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px var(--secondary-color-text);
   line-height: 0.75;
-  align-self: center;
+  /* align-self: center; */
   margin: 0;
 }
 
@@ -62,11 +62,17 @@ body {
 
 /* HOME PAGE */
 
+.menu-content{
+  padding: 0 20px ;
+}
+
 .category-tile {
-  position: relative;
+  /* position: relative; */
+  /* align-items: center; */
   color: var(--secondary-color-text);
   border: 2px solid var(--main-bg-drk-color);
-  margin: 0 25px 20px;
+  margin-bottom: 25px;
+  /* margin: 0 25px 20px; */
   background-color: var(--secondary-bg-drk-color);
 }
 
