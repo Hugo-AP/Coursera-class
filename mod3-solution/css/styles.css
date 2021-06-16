@@ -34,7 +34,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px var(--secondary-color-text);
   line-height: 0.75;
-  /* align-self: center; */
+  align-self: center;
   margin: 0;
 }
 
